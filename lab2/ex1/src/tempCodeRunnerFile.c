@@ -1,0 +1,1 @@
+long int Matrix_chain(int scale ,long int *p ,int path[MAX_SIZE][MAX_SIZE]){

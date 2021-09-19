@@ -1,0 +1,1 @@
+int duplicate_flag[RANGE] = {0};
